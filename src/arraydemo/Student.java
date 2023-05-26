@@ -6,6 +6,7 @@ public class Student {
     //comment added at 9:27AM
     //comment added for modification
     //comment added for fetch and merge
+    //comment for pull
     private String sId;
     private String sName;
     private String address;
